@@ -1,0 +1,93 @@
+
+.btn-success{
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.b4{
+    margin-left: 120px;
+}
+.b5{
+    margin-left: 0px;
+    margin-top: 30px;
+}
+.product {
+    border: 1px solid black;
+    border-radius: 0.25rem;
+    padding: 10px;
+    text-align: center;
+    transition: transform 0.2s;
+    margin-top: 25px;
+}
+
+.product:hover {
+    transform: scale(1.10);
+}
+
+.product img {
+    max-width: 50%;
+    height: auto;
+}
+
+.btn-primary {
+    background-color: red;
+    border-color: black;
+}
+
+.btn-primary:hover {
+    background-color: greenyellow;
+    border-color: black;
+}
+
+img{
+    height: 500px;
+    width: -10px;
+}
+
+.btn-secondary{
+    background-color: blue;
+    border-color: black;
+}
+
+.btn-secondary:hover {
+    background-color: greenyellow;
+    border-color: black;
+}
+
+.about-us{
+    margin: 20px;
+    padding: 20px;
+    margin-top: 30px;
+    background-color: black;
+    width: 47%;
+    height: 500px;
+    margin-left: 350px;
+    border: 1px solid black;
+    border-radius: 0.25rem;
+}
+
+.contact-us {
+    margin: 20px;
+    padding: 20px;
+    margin-top: 5px;
+    background-color: black;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 0.25rem;
+}
+.a1{
+   margin-left: 90px;
+   height: 340px;
+   padding: 30px;
+    
+}
+.e1{
+    margin: 20px;
+    padding: 20px;
+    margin-top: 5px;
+}
+.f1{
+    margin-left: 510px;
+}
+.f2{
+    margin-left: 10px;
+}

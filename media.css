@@ -1,0 +1,14 @@
+div{
+    width: 50%;
+    background-color: green;
+    color: gold;
+    border: 5px black solid;
+}
+
+@media(min-width:600px) and (max-width:1000px){
+
+    div{
+        background-color: aqua;
+        color: red;
+    }
+}
